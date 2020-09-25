@@ -159,7 +159,7 @@ double PID::TotalError() {
 
 - I noticed it's unstable during cornering with step #16 PID gain, it can be improved with further adjustment. 
 
-- I tried to run twiddle to adjustment parmaeters while running simulation, but it wasn't successful. I need to revisit twiddle code to see what went wrong. Instead, I manually tuned the gain in an order (p gain first, d gain, introduce i gain, then fine tune bit by bit by looking at the performance of the vehicle.)
+- I tried to run twiddle to adjustment parameters while running simulation, but it wasn't successful. I need to revisit twiddle code to see what went wrong. Instead, I manually tuned the gain in an order (p gain first, d gain, introduce i gain, then fine tune bit by bit by looking at the performance of the vehicle.)
 
 ```
 double PID::twiddle(double cte)
