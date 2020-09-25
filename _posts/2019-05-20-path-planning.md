@@ -158,7 +158,7 @@ print out command used to display essential information.each corner case display
 
 - The code is not efficient for certain. I need to modify it more readable,reliable, repurposeful code. 
 - I have done lots of troubleshooting (I nearly consumed more than 30 hours of GPU time for this project) and made a quite a bit of adjustment in coding. Some unexpected corner cases kept me busy think differently, that results in messy code at the end..I need to learn more on algorithmic thinking and structured way to generate an efficient code..
-- There are certain unexpected scenarios where the vehicle is surrounded by 3 vehicles (each lane blocks my car), then my vehicle tends to make a steer where it shouldn't be. I need to adjust the weight factor toleratnce (weight_tol, see the below code snippet) to keep the lane by offsetting the weight factor difference from my lane to prevent unexpected lane change... 
+- There are certain unexpected scenarios where the vehicle is surrounded by 3 vehicles (each lane blocks my car), then my vehicle tends to make a steer where it shouldn't be. I need to adjust the weight factor tolerance (weight_tol, see the below code snippet) to keep the lane by offsetting the weight factor difference from my lane to prevent unexpected lane change... 
 ```
 if ((weightfactor1 < weightfactor2)&& (abs(weightfactor1 - weightfactor2) > weight_tol))
                   {
