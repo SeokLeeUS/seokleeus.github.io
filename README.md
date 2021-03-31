@@ -2,7 +2,7 @@
 title: "About"
 permalink: "/about/"
 ---
-## Some other projects
+## Some other projects and accomplishment
 
 >- [Dynamic plant modeling and simulation](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1602706)
 >
