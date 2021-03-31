@@ -4,6 +4,8 @@ categories: post
 ---
 ![Unreal_example](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/Unreal_Scratch/ezgif.com-video-to-gif.gif)
 
+![battle_tank_demo](https://github.com/SeokLeeUS/BattleTank/raw/master/_image/battletank2.gif)
+
    - I practiced Unreal tool/C++ by working on few small demo projects. Here are sample works for my record:
    
      - [Unreal#1- Batterycollector](https://youtu.be/3-c662M4TWY)
