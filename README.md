@@ -2,7 +2,7 @@
 title: "About"
 permalink: "/about/"
 ---
-## Life long learner
+## Some other projects
 
 >- [Dynamic plant modeling and simulation](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1602706)
 >
