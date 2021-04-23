@@ -1,6 +1,10 @@
 ---
-title: "About"
+title: "about"
 permalink: "About"
+
+/
+redirect_from:
+  - /about
 ---
 
 
