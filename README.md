@@ -21,7 +21,7 @@ permalink: "/about/"
 >- [Thermal&Fluid](https://ncees.org/wp-content/uploads/PE-Mech_Thermal-Apr-2017.pdf)  [Professional Engineer(license#:6201066645)](https://account.ncees.org/rn/1659426-1032221-e6515b2)
 >
 
-## [![Resume](../_images/Resume_Seok Lee.jpg)](https://htmlpreview.github.io/?https://github.com/SeokLeeUS/seokleeus.github.io/blob/master/_images/Seok_Lee_Resume_R.html)
+## [Resume](https://htmlpreview.github.io/?https://github.com/SeokLeeUS/seokleeus.github.io/blob/master/_images/Seok_Lee_Resume_R.html)
 
 ## [Resume](https://htmlpreview.github.io/?https://github.com/SeokLeeUS/seokleeus.github.io/blob/master/_images/Seok_Lee_Resume_R.html)
 
