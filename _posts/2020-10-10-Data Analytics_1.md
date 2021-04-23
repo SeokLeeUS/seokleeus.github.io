@@ -4,7 +4,7 @@ categories: post
 mathjax: true
 ---
 
-[![Data_Analytics2](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Data_Analytics/Data_Analytics_Hotel_Cancellation.jpg)](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/Business_Analytics_Capstone.pdf)
+[![Data_Analytics2](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Data_Analytics/Data_Analytics_Hotel_Cancellation.jpg)](seokleeus.github.io/blob/master/_images/Business_Analytics_Capstone.pdf)
 
 I practiced a capstone project for business data analytics. 
 
