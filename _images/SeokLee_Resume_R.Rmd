@@ -4,7 +4,7 @@ author: "Seok Lee"
 date: "`r Sys.Date()`"
 output:
   
-  output: rmarkdown::github_document
+  rmarkdown::github_document
   pagedown::html_resume:
     self_contained: true
   html_document:
