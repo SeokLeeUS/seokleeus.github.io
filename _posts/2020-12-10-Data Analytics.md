@@ -1,5 +1,5 @@
 ---
-title:  "Business Data Analytics Practice"
+title:  "Business Data Analytics Practice (2)"
 categories: post
 mathjax: true
 ---
