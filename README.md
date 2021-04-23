@@ -1,10 +1,7 @@
 ---
-title: "about"
-permalink: "about"
+title: "About"
+permalink: "About"
 
-/
-redirect_from:
-  - /about
 ---
 
 
