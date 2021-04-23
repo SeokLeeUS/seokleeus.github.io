@@ -21,7 +21,7 @@ permalink: "/about/"
 >- [Thermal&Fluid](https://ncees.org/wp-content/uploads/PE-Mech_Thermal-Apr-2017.pdf)  [Professional Engineer(license#:6201066645)](https://account.ncees.org/rn/1659426-1032221-e6515b2)
 >
 
-## ![Resume](https://rpubs.com/seokleeuk/758539)
+## [Resume](https://rpubs.com/seokleeuk/758539)
 
 ## License
 
