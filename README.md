@@ -22,7 +22,7 @@ permalink: "/about/"
 >
 
 ## [Resume](https://rpubs.com/seokleeuk/758539)
-[test](https://htmlpreview.github.io/?https://github.com/SeokLeeUS/seokleeus.github.io/blob/master/_images/Seok_Lee_Resume_R.html)
+![test](https://htmlpreview.github.io/?https://github.com/SeokLeeUS/seokleeus.github.io/blob/master/_images/Seok_Lee_Resume_R.html)
 
 ## License
 
