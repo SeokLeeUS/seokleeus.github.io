@@ -23,6 +23,8 @@ permalink: "/about/"
 
 ## [![Resume](https://github.com/SeokLeeUS/seokleeus.github.io/blob/master/_images/Resume_Seok%20Lee.jpg)](https://htmlpreview.github.io/?https://github.com/SeokLeeUS/seokleeus.github.io/blob/master/_images/Seok_Lee_Resume_R.html)
 
+## [Resume](https://htmlpreview.github.io/?https://github.com/SeokLeeUS/seokleeus.github.io/blob/master/_images/Seok_Lee_Resume_R.html)
+
 
 ## License
 
