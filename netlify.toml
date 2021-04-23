@@ -1,0 +1,4 @@
+# Redirect /index.html to /
+[[redirects]]
+  from = "/index.html"
+  to = "/readme.html"
