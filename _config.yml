@@ -39,5 +39,6 @@ plugins:
  - jekyll-paginate
  - jekyll-default-layout
  - jekyll-remote-theme
+ - jekyll-redirect-from
 
 theme: jekyll-theme-modernist
