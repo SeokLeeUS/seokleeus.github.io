@@ -1,6 +1,6 @@
 ---
-title: "Resume"
-permalink: "/Resume/"
+title: "About"
+permalink: "/About/"
 ---
 
 
