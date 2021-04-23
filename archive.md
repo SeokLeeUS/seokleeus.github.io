@@ -1,4 +1,4 @@
 ---
 layout: archive
-title: "Project"
+title: "Archive"
 ---
