@@ -1,4 +1,0 @@
-# Redirect /index.html to /
-[[redirects]]
-  from = "/index.html"
-  to = "/About.html"
