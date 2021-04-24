@@ -4,10 +4,6 @@ categories: post
 mathjax: true
 ---
 
-[![Data_Analytics2](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Data_Analytics/Data_Analytics_Hotel_Cancellation.jpg)](https://nbviewer.jupyter.org/github/SeokLeeUS/seokleeus.github.io/blob/master/Business_Analytics_Capstone.pdf)
-
-
-
 [![Data_Analytics2](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Data_Analytics/Data_Analytics_Hotel_Cancellation.jpg)]({{https://github.com/SeokLeeUS/seokleeus.github.io}}/assets/Business_Analytics_Capstone.pdf)
 
 I practiced a capstone project for business data analytics. 
