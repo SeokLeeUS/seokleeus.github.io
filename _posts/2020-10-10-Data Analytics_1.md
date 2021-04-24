@@ -6,6 +6,10 @@ mathjax: true
 
 [![Data_Analytics2](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Data_Analytics/Data_Analytics_Hotel_Cancellation.jpg)](https://nbviewer.jupyter.org/github/SeokLeeUS/seokleeus.github.io/blob/master/Business_Analytics_Capstone.pdf)
 
+
+
+[get the PDF]({{ https://github.com/SeokLeeUS/seokleeus.github.io }}/assets/BA_r1.pdf)
+
 I practiced a capstone project for business data analytics. 
 
 The scope of project is to understand if there's a correlation for a client to cancel the hotel booking. 
