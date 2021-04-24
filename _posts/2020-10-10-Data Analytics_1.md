@@ -8,7 +8,7 @@ mathjax: true
 
 
 
-[get the PDF]({{ https://github.com/SeokLeeUS/seokleeus.github.io }}/assets/BA_r1.pdf)
+[get the PDF]({{https://github.com/SeokLeeUS/seokleeus.github.io}}/assets/BA_r1.pdf)
 
 I practiced a capstone project for business data analytics. 
 
