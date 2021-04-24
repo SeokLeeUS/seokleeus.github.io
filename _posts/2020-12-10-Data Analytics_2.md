@@ -4,7 +4,7 @@ categories: post
 mathjax: true
 ---
 
-[![Data_Analytics](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Data_Analytics/Data_Analytics_Result.jpg)](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/Business_Analytics_r1.pdf)
+[![Data_Analytics](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Data_Analytics/Data_Analytics_Result.jpg)](https://uofi.app.box.com/file/803208380975)
 
 I practiced a team project for business data analytics. 
 
