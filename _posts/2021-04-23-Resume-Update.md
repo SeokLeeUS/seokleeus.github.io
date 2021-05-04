@@ -88,7 +88,7 @@ Seok Lee {#title}
 *Acquiring* insights from data is easier said than done. The data size is unwelcoming and overwhelms at first. Data mining is monotonous and tedious. Insufficient data requires long waiting and change of data acquisition method. At then end, frustration arrives when the conclusive pattern or an insight isn't seen. Unskillful coding and visualization will add stress under time demanding project. However, the delight after discovering patterns or estimating / forecasting next behavior endures hectic prepping work. I have gone through in both engineering or business analytic areas.       
 
 ### A versatile in engineering field: 
-Following engineering specialties synergize in different disciplines:
+Following engineering specialties can be meshed in different disciplines:
 
 ##### - *Mathematical Modeling for System*
 ##### - *Data Analytic Driven Decision Making*
