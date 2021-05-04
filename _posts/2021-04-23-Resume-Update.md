@@ -4,7 +4,7 @@ categories: post
 mathjax: true
 ---
 
-[![Resume](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Resume/Resume_Seok_Lee.jpg)]({{https://github.com/SeokLeeUS/seokleeus.github.io}}/assets/Seok_Lee_Resume_in_R_May042021.pdf)
+[![Resume](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Resume/Resume_Seok_Lee_May042021.jpg)]({{https://github.com/SeokLeeUS/seokleeus.github.io}}/assets/Seok Lee_Resume_in_R_May042021.pdf)
 
 I tried to update my resume using R markdown. The draft turned out well. Here is the code:
 
@@ -28,7 +28,7 @@ Aside
 ![Seok Lee](/Users/test/Documents/R/resume/SeokLee_3.jpg){width=80%}
 <!-- ![Seok Lee](`r here::here("SeokLee_3.jpg")`) -->
 
-<!---Research Engineer Specialized in s/w Testing | Plant Modeling | Data Analysis | 3d Virtual Simulation | Controller Design | Model Based Design | Business Data Analytics-->
+Research Engineer Specialized in s/w Testing | Plant Modeling | Data Analysis | 3d Virtual Simulation | Controller Design | Model Based Design | Business Data Analytics
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -41,9 +41,8 @@ Contact Info {#contact}
 Tools {#Tools}
 --------------------------------------------------------------------------------
 
-Data analytics: R | Python | MATLAB 
-
-Engineering: Simulink | CarSIM | AMESim | Targetlink | CAN | C++ | Tensorflow | OpenCV | Keras | Unreal 
+MATLAB | Simulink | CarSIM | AMESim | Targetlink | CANALyzer |
+CANoe | Python | C++ | Tensorflow | OpenCV | Keras | R
 
 License {#License}
 --------------------------------------------------------------------------------
@@ -65,43 +64,8 @@ Main
 Seok Lee {#title}
 --------------------------------------------------------------------------------
 
----
+### Business Analytics | Global Challenges in Business | Model Based Design (MBD) | Large Scale Modeling|On Board Diagnostic (OBD) | Model in the Loop (MIL)-Hardware in the Loop (HIL) Modeling & Testing |  Chassis(Brake) Controls | Diesel Emission Controls | Controller Area Network (CAN) Definition | Dynamic Plant Modeling and Simulation (Vehicle, Tire) | Non-Linear System Modeling (Tire/Brake Hydraulics) | Engine Cell Testing (Emission) | ISO 26262 Compliant s/w Development | Co-Simulation | Validation & Verification | Driving Simulator | Model Refactoring
 
-### Deliver quality in uncertain environment:
-
-*Uncertainty* is everywhere. In the engineering field, there are often no defined requirements or clear direction.Trial and error is a working way to discover unknowns. I learned and developed hands-on project management where uncertainty is the norm. At the same time, the exposure to the research environment where there's minimal guidance to demand creative outputs fortifies me. In both sides of the world, I am able to deliver high quality deliverable where uncertainty rises and falls.  
-
-### Leadership is meant to enable others:
-
-*Leadership* is not something you can sandbox- fail, improve, and repeat because the human emotion is involved. I noticed that leadership may end up performance degradation adversely when it’s exercised wrong.I envisioned leadership as an art of harmonizing humane emotion while creating an environment to deliver the project deliverable spontaneously. The formal education in MBA enabled me to utilize few tools to enhance my past earned leadership skills to enable others to achieve the group's career goal.  
-
-### Solve complex problem:
-
-*My passion* lies in developing solutions for complex systemic issues. The journey to prove the proposed solutions at system level makes feel rewarding and that is where my excitement arises. 
-
-### Open minded in global setting:
-
-*Exposure* to the global presence in working in European region enlightened me to carry a holistic view of corporate operation. I see why one size fits all strategy wouldn't work because of different labor resources, locality, and custom. Specialized in corporate globalization in MBA certainly broadens and affirms my collective view from international assignment. 
-
-### Experienced in data driven approach:
-
-*Acquiring* insights from data is easier said than done. The data size is unwelcoming and overwhelms at first. Data mining is monotonous and tedious. Insufficient data requires long waiting and change of data acquisition method. At then end, frustration arrives when the conclusive pattern or an insight isn't seen. Unskillful coding and visualization will add stress under time demanding project. However, the delight after discovering patterns or estimating / forecasting next behavior endures hectic prepping work. I have gone through in both engineering or business analytic areas.       
-
-### A versatile in engineering field: 
-Following engineering specialties can be meshed in different disciplines:
-
-##### - *Mathematical Modeling for System*
-##### - *Data Analytic Driven Decision Making*
-##### - *Virtual Simulation to Mimic Real World*
-##### - *Design Estimator to Predict Nonlinearity*
-##### - *Model Based Approach to Develop Readable and Simplified s/w Code*
-##### - *AI, Vision Sensing for Pattern Recognition, Path Following*
-##### - *Business Data Analytics to Predict Patterns*
-
-
-\pagebreak
-
----
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -201,7 +165,7 @@ Dearborn, MI
 2005--2010
 
 - Brake Modeling and Design of Low Mass Vehicle (LMV)
-<!--	- Designed conventional brake system for LMV and developed brake diagram GUI
+	- Designed conventional brake system for LMV and developed brake diagram GUI
 	- Modeled hydraulic brake system using AMESim
 - LMV Dynamic Vehicle Model Development 
 	- Developed 8 Degree of Freedom (DoF) vehicle model using MATLAB/SIMULINK
@@ -211,10 +175,10 @@ Dearborn, MI
 	- Developed Extended Kalman Filter (EKF) algorithm for tire force estimation 
 - Development of Anti Lock Brake System (ABS) Control Algorithm
 	- Developed wheel slip control algorithm using Sliding Mode Control (SMC)
-	- Designed alternative sliding surface in SMC -->
+	- Designed alternative sliding surface in SMC
 - Hydraulic Circuit Modeling of ABS
-<!--	- Developed ABS hydraulic circuit using AMESim
-	- Developed Pulse Width Modulation (PWM)-SMC control algorithm for ABS application-->
+	- Developed ABS hydraulic circuit using AMESim
+	- Developed Pulse Width Modulation (PWM)-SMC control algorithm for ABS application
 
 
 Publications {data-icon=file}
@@ -251,5 +215,4 @@ N/A
 2006
 
  **Seok Lee** , Taehyun Shim , Byung-Kwan Cho
- 
 ```
