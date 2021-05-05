@@ -165,21 +165,10 @@ Dearborn, MI
 2005--2010
 
 - Brake Modeling and Design of Low Mass Vehicle (LMV)
-	- Designed conventional brake system for LMV and developed brake diagram GUI
-	- Modeled hydraulic brake system using AMESim
-- LMV Dynamic Vehicle Model Development 
-	- Developed 8 Degree of Freedom (DoF) vehicle model using MATLAB/SIMULINK
-	- Validated the vehicle model using CarSim
+- LMV Dynamic Vehicle Model Development 	
 - Tire Simulation Model and Estimation Module Development 
-	- Developed/Compared Pacejka5.2, Milliken, and Dugoff Tire Model using MATLAB/SIMULINK
-	- Developed Extended Kalman Filter (EKF) algorithm for tire force estimation 
 - Development of Anti Lock Brake System (ABS) Control Algorithm
-	- Developed wheel slip control algorithm using Sliding Mode Control (SMC)
-	- Designed alternative sliding surface in SMC
 - Hydraulic Circuit Modeling of ABS
-	- Developed ABS hydraulic circuit using AMESim
-	- Developed Pulse Width Modulation (PWM)-SMC control algorithm for ABS application
-
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
