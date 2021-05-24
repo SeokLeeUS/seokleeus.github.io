@@ -4,7 +4,7 @@ categories: post
 mathjax: true
 ---
 
-[![Resume](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Resume/Resume_Seok_Lee_May042021.jpg)]({{https://github.com/SeokLeeUS/seokleeus.github.io}}/assets/Seok_Lee_Resume_in_R_May042021.pdf)
+[![Resume](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Resume/Resume_Seok_Lee_May242021.jpg)]({{https://github.com/SeokLeeUS/seokleeus.github.io}}/assets/Seok_Lee_Resume_in_R_May242021.pdf)
 
 I tried to update my resume using R markdown. The draft turned out well. Here is the code:
 
