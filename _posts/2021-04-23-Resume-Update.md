@@ -25,7 +25,7 @@ output:
 Aside
 ================================================================================
 
-![Seok Lee](/Users/test/Documents/R/resume/SeokLee_3.jpg){width=80%}
+![Seok Lee](/Users/test/Documents/R/resume/SeokLee_4.jpg){width=100%}
 <!-- ![Seok Lee](`r here::here("SeokLee_3.jpg")`) -->
 
 Research Engineer Specialized in s/w Testing | Plant Modeling | Data Analysis | 3d Virtual Simulation | Controller Design | Model Based Design | Business Data Analytics
