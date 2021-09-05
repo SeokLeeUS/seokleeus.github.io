@@ -76,7 +76,7 @@ MBA-Business analytics | Global challenge
 
 Urbana, IL
 
-03/2020--07/2021
+10/2017--07/2021
 
 
 ### University of Michigan at Dearborn
@@ -100,6 +100,16 @@ Korea
 
 Industry Experience {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
+
+### Canoo
+
+Senior Team Lead - Electronics
+
+Torrance, CA, USA
+
+06/2021--present
+
+Electronic requirement definition for future products
 
 ### Ford Motor Company
 
