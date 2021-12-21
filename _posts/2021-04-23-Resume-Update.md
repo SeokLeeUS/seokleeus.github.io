@@ -76,7 +76,7 @@ MBA-Business analytics | Global challenge
 
 Urbana, IL
 
-10/2017--07/2021
+04/2020--08/2021
 
 
 ### University of Michigan at Dearborn
@@ -109,7 +109,7 @@ Torrance, CA, USA
 
 06/2021--present
 
-Electronic requirement definition for future products
+Electronic requirement definition for future products| Benchmark, initial market research, pinpoint technology gap, share insight, and set the roadmap for corporate ADAS, On Board Charger, Telematic, V2X and infotainment strategy
 
 ### Ford Motor Company
 
