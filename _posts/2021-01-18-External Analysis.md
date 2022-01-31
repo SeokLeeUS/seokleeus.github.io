@@ -1,5 +1,5 @@
 ---
-title:  "Strategic Mngt-5 force analysis"
+title:  "Strategic Mngt-5 force"
 categories: post
 mathjax: true
 ---
