@@ -1,5 +1,5 @@
 ---
-title:  "Strategic Management-VARS analysis"
+title:  "Strategic Mngt-VARS analysis"
 categories: post
 mathjax: true
 ---
