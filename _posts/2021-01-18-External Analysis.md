@@ -4,7 +4,7 @@ categories: post
 mathjax: true
 ---
 
-I tried to mimic Warren Buffett's investment style. One of his quote when someone asked about his investment strategy, he introduced economic moat. 
+I tried to mimic Warren Buffett's investment style. One of Buffett's quote when someone asked about his investment strategy, he introduced economic moat. 
 I found there's a framework suggested by [Porter](https://www.investopedia.com/terms/p/porter.asp) - 5 force. 
 5 force stands for the followings:
 
