@@ -1,5 +1,5 @@
 ---
-title:  "Globalization-VARS analysis"
+title:  "Strategic Management-VARS analysis"
 categories: post
 mathjax: true
 ---
