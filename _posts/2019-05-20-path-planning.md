@@ -15,7 +15,6 @@ mathjax: true
 - how to make the car follow the path 
 - how to reduce jerk at the cold start
 - how to reduce the vehicle speed when facing the front car to avoid collision. 
-- dummy test why the title doesn't change
 
 ## Resource to tackle the remaining work:
 
