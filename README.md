@@ -16,7 +16,7 @@ Currently, I am Technical Business Development Manager for Vitesco Technologies.
 
 Colleagues describe me as a progressive, driven, down-to-earth, technical and managerial expert who can be relied on to offer superior solutions that deliver profitable results on time and under budget.
 
-I am interested in contacting former colleagues and managers, as well as other professionals in my field. Feel free to contact me through seokleeuk@gmail.com or LinkedIn(https://www.linkedin.com/in/seoklee).
+I am interested in contacting former colleagues and managers, as well as other professionals in my field. Feel free to contact me ([via email](mailto:seokleeuk.com)) or [LinkedIn](https://www.linkedin.com/in/seoklee).
 
 
 
