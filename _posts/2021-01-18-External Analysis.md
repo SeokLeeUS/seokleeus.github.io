@@ -4,7 +4,7 @@ categories: post
 mathjax: true
 ---
 
-I tried to mimic Warren Buffett's investment style. When someone asked Buffett about his investment strategy, Buffett often introduced the concept of ["economic moat"](https://www.investopedia.com/ask/answers/05/economicmoat.asp). I tried to understand "moat" with the framework suggested by [Porter](https://www.investopedia.com/terms/p/porter.asp) - 5 force. 
+I tried to mimic Warren Buffett's investment style. When someone asked Buffett about his investment strategy, Buffett often introduced the concept of ["economic moat"](https://www.investopedia.com/ask/answers/05/economicmoat.asp). I was thinking of the concept of "moat" could be analyzed by the framework suggested by [Porter](https://www.investopedia.com/terms/p/porter.asp) - 5 force. 
 5 force stands for the followings:
 
 - Competition in the industry
@@ -17,5 +17,5 @@ I tried to mimic Warren Buffett's investment style. When someone asked Buffett a
 
 - Threat of substitute products
 
-I tried to apply the suggested framework to an industry I am familar with- Heavy Duty engine industry. 
+In the end, I applied the suggested framework to an industry I am familiar with- Heavy Duty engine industry. 
 Here is [my speculation](https://docs.google.com/document/d/1BD391G2G1-APvGuatAIfOk_hczL-wCmKsHDytlCK63Y/edit). 
