@@ -21,15 +21,16 @@ mathjax: true
 
 ## Submission note:
 
-   - Path following doesn't work when camera is turned on (without camera on, it works) @ workspace environment, rospy rate has been adjusted @ tl_detector as 5hz @waypoint_updater as 15hz, but no luck. 
-   - in order to mitigate the latency issue which influences path following, I had added a method to take only 1 image out of 3 for classification, but no luck. 
-   - It took so long time to troubleshoot and mitigate the latency. 
-   - I had asked Udacity to look at if the simulator has changed at some point.
-   - Until the discussion happens with Udacity, what I can demonstrate for the final submission are, 
-     - without camera on, path following works. See simulation result #1.
-     - at steady state manual mode in front of the nearest traffic signal, the classifier detects the red stop signal correctly. See simulation result #2.
+Path following functionality is not working as expected when the camera is enabled. The issue does not occur when the camera is disabled.
 
-       
+To address potential latency issues, I adjusted the rospy rates for tl_detector to 5Hz and waypoint_updater to 15Hz. Additionally, I implemented a strategy to process only one image every three frames for classification. Unfortunately, these measures did not resolve the problem.
+
+Troubleshooting the issue has been time-consuming. I've also reached out to Udacity to inquire about potential changes to the simulator.
+
+Until a resolution is found, I can demonstrate the following:
+
+Path following without camera: The path following algorithm works as expected when the camera is disabled. (See Simulation Result #1)
+Traffic light detection: The classifier accurately detects red stop signals at steady state in manual mode. (See Simulation Result #2)
 
 ## Simulation environment:
 
