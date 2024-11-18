@@ -6,14 +6,10 @@ mathjax: true
 
 [![Data_Analytics2](https://raw.githubusercontent.com/SeokLeeUS/seokleeus.github.io/master/_images/_Data_Analytics/Data_Analytics_Hotel_Cancellation.jpg)]({{https://github.com/SeokLeeUS/seokleeus.github.io}}/assets/Business_Analytics_Capstone.pdf)
 
-I practiced a capstone project for business data analytics. 
+I worked on a capstone project for business data analytics, focusing on identifying factors contributing to hotel booking cancellations.
 
-The scope of project is to understand if there's a correlation for a client to cancel the hotel booking. 
+The project's scope was to examine whether there is a correlation between client type and cancellations. Results indicated that repeat customers are less likely to cancel bookings compared to new customers.
 
-The repeating customer makes less cancellation than a new customer. 
+Based on these findings, the hotel company should prioritize promotional strategies to retain loyal customers, thereby minimizing costs associated with no-shows and last-minute cancellations.
 
-The hotel company should apply more promotion to retain the loyal customers minimizing incurring cost of no show or last minute cancellation. 
-
-Main programming tool was R for this work. 
-
-Full result will be shown in pdf once you click the screenshot. 
+The analysis was conducted using R programming. Full results are available in a PDF, accessible via the provided screenshot.
