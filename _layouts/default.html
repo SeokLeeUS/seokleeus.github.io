@@ -11,9 +11,10 @@
   <!-- Existing page content -->
   {{ content }}
 
-  <!-- Hero Banner -->
+  <!-- Hero Banner with Animated Wave -->
   <section class="hero">
-    <div>
+    <canvas id="heroWave"></canvas>
+    <div class="hero-text">
       <h1>Seok's Visual Blog</h1>
       <p>Futuristic Ideas in Pictures & Videos</p>
     </div>
@@ -38,5 +39,11 @@
     {% endfor %}
   </section>
 
-</body>
-</html>
+  <!-- Animated Hero Wave Script -->
+  <script>
+  const canvas = document.getElementById('heroWave');
+  const ctx = canvas.getContext('2d');
+
+  let width, height;
+  function resize() {
+    width = canvas.width = window.innerWidth;
