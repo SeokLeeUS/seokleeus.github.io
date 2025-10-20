@@ -41,4 +41,4 @@ plugins:
  - jekyll-remote-theme
  - jekyll-redirect-from
 
- theme: jekyll-theme-modernist
+theme: jekyll-theme-modernist
