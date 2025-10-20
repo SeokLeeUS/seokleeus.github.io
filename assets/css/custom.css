@@ -1,11 +1,4 @@
-body {
-  margin: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #0d0d0d;
-  color: #fff;
-}
-
-/* Hero Banner */
+/* --- Hero Banner --- */
 .hero {
   position: relative;
   height: 60vh;
@@ -42,7 +35,7 @@ body {
   text-shadow: 0 0 10px #4ecca3;
 }
 
-/* Media Grid */
+/* --- Media Grid --- */
 .media-grid {
   display: flex;
   flex-wrap: wrap;
@@ -51,7 +44,6 @@ body {
   padding: 40px 20px;
 }
 
-/* Individual Items */
 .media-item {
   width: 320px;
   height: 180px;
@@ -63,14 +55,12 @@ body {
   transition: transform 0.4s ease, box-shadow 0.4s ease, filter 0.4s ease;
 }
 
-/* Hover Effects */
 .media-item:hover {
   transform: scale(1.05) rotate(-1deg);
   box-shadow: 0 0 25px #4ecca3, 0 0 50px #4ecca3 inset;
   filter: brightness(1.2) saturate(1.3);
 }
 
-/* Image/Video Styling */
 .media-item img,
 .media-item video {
   width: 100%;
@@ -86,7 +76,6 @@ body {
   transform: scale(1.1);
 }
 
-/* Optional futuristic overlay glow */
 .media-item::after {
   content: '';
   position: absolute;
