@@ -47,3 +47,44 @@
   let width, height;
   function resize() {
     width = canvas.width = window.innerWidth;
+    height = canvas.height = window.innerHeight * 0.6;
+  }
+  window.addEventListener('resize', resize);
+  resize();
+
+  let t = 0;
+  function draw() {
+    ctx.clearRect(0,0,width,height);
+    
+    // Background gradient
+    const grad = ctx.createLinearGradient(0,0,width,height);
+    grad.addColorStop(0,'#1a1a2e');
+    grad.addColorStop(0.5,'#162447');
+    grad.addColorStop(1,'#1f4068');
+    ctx.fillStyle = grad;
+    ctx.fillRect(0,0,width,height);
+    
+    // Draw multiple sine waves
+    for(let i=0;i<3;i++){
+      ctx.beginPath();
+      const amplitude = 20 + i*10;
+      const frequency = 0.01 + i*0.005;
+      const phase = t * (0.02 + i*0.01);
+      ctx.moveTo(0,height/2);
+      for(let x=0;x<width;x++){
+        const y = height/2 + Math.sin(x*frequency + phase)*amplitude;
+        ctx.lineTo(x,y);
+      }
+      ctx.strokeStyle = `rgba(78,204,163,${0.3 + i*0.2})`;
+      ctx.lineWidth = 2 + i;
+      ctx.stroke();
+    }
+    
+    t++;
+    requestAnimationFrame(draw);
+  }
+  draw();
+  </script>
+
+</body>
+</html>
