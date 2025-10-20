@@ -3,7 +3,7 @@ author: "Seok Lee"
 description: "Seok Lee portfolio"
 lang: "en"
 
-remote_theme: niklasbuschmann/contrast
+# remote_theme: niklasbuschmann/contrast
 
 
 # Page settings
@@ -41,4 +41,4 @@ plugins:
  - jekyll-remote-theme
  - jekyll-redirect-from
 
-theme: jekyll-theme-modernist
+# theme: jekyll-theme-modernist
