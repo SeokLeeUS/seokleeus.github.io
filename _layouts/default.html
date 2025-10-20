@@ -4,12 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
+  <!-- Original CSS links -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <!-- Custom hero + media grid CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 </head>
 <body>
 
-  <!-- Existing page content -->
-  {{ content }}
+  <!-- Original header/navigation -->
+  {% include header.html %}
 
   <!-- Hero Banner with Animated Wave -->
   <section class="hero">
@@ -38,6 +41,14 @@
       {% endif %}
     {% endfor %}
   </section>
+
+  <!-- Main content -->
+  <main>
+    {{ content }}
+  </main>
+
+  <!-- Original footer -->
+  {% include footer.html %}
 
   <!-- Animated Hero Wave Script -->
   <script>
